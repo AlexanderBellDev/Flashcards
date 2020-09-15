@@ -1,0 +1,71 @@
+There are no cards with errors.
+The card:
+France
+The definition of the card:
+Paris
+The pair ("France":"Paris") has been added.
+How many times to ask?
+2
+Print the definition of "France":
+France
+Wrong. The right answer is "Paris".
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+The hardest card is "France". You have 2 errors answering it.
+There are no cards with errors.
+The card:
+Russia
+The definition of the card:
+Moscow
+The pair ("Russia":"Moscow") has been added.
+How many times to ask?
+2
+Print the definition of "Russia":
+??
+Wrong. The right answer is "Moscow".
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+The hardest cards are "France", "Russia". You have 1 errors answering them.
+How many times to ask?
+2
+Print the definition of "Russia":
+??
+Wrong. The right answer is "Moscow".
+Print the definition of "Russia":
+??
+Wrong. The right answer is "Moscow".
+The hardest card is "Russia". You have 3 errors answering it.
+How many times to ask?
+2
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+The hardest cards are "France", "Russia". You have 3 errors answering them.
+How many times to ask?
+2
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+The hardest card is "France". You have 5 errors answering it.
+How many times to ask?
+2
+Print the definition of "Russia":
+??
+Wrong. The right answer is "Moscow".
+Print the definition of "France":
+??
+Wrong. The right answer is "Paris".
+The hardest card is "France". You have 6 errors answering it.
+File name:
+capitals.txt
+2 cards have been saved
+File name:
+testLog.txt
